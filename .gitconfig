@@ -1,0 +1,7 @@
+[imap]
+folder = "[Gmail]/Drafts"
+host = imap://imap.gmail.com
+user = luiggyferrin@gmail.com
+pass = YX]8g76G_2^sFbd
+port = 993
+sslverify = false
