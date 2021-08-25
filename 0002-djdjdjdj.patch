@@ -1,0 +1,25 @@
+From d65643e09d67e94a0ed226ef14c87c9454f4cb89 Mon Sep 17 00:00:00 2001
+From: macluiggy <ferrinluiggy@gmail.com>
+Date: Wed, 25 Aug 2021 09:06:45 -0500
+Subject: [PATCH 2/2] djdjdjdj
+
+---
+ index.html | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/index.html b/index.html
+index 172f0cf..4b3efbf 100644
+--- a/index.html
++++ b/index.html
+@@ -109,6 +109,6 @@
+ </html>
+ <!-- hello Im learning pro git book to learn how to contribute to projects 
+ otro comentario
+-
+ pilas
++jajja
+ -->
+\ No newline at end of file
+-- 
+2.25.1
+
